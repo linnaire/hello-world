@@ -1,2 +1,5 @@
 # hello-world
-Simple Hello World Repository to commemorate my first repository in git hub.
+
+Greetings! 
+
+A simple hello world line for a new member in git hub. 3:)
